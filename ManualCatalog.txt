@@ -1,3 +1,6 @@
 Welcome to the Automation framework Manual
 
 this is a Hybrid framwork (Keyword driven and Dat driven)
+
+
+Thanks
