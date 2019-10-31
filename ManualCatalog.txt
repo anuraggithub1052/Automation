@@ -1,6 +1,7 @@
 Welcome to the Automation framework Manual
 
-this is a Hybrid framwork (Keyword driven and Dat driven)
+this is a Hybrid framwork (Keyword driven and Data driven)
+We will be having functions for Selenium IDE.
 
 
 Thanks
